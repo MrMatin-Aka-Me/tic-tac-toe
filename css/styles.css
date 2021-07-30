@@ -1,0 +1,46 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #201b2d;
+	font-size: 15px;
+	padding: 0;
+	margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.main {
+    height: 100vh;
+    background:  rgba(134, 247, 181, 0.712);
+}
+
+.container {
+    background:  rgba(134, 247, 181, 0.712);
+	width: 930px;
+    height: 100%;
+	margin: auto;
+}
+
+#resetBtn {
+    position: absolute;
+    bottom: 300px;
+    left: 65px;
+}
+
+#refresh {
+    display: none;
+    border-radius: 34%;
+}
+
+#refresh:hover {
+    background-color: #f7f8fa;
+    box-shadow: -4px 5px 15px grey;
+}
+
+#whosTurn {
+    position: absolute;
+    bottom: 250px;
+    left: 40px;
+    font-size: large;    
+}
