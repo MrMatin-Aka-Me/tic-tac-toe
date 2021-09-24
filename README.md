@@ -1,2 +1,3 @@
 # tic-tac-toe
-Just a game
+
+Try it following the link: [!mrmatin-aka-me.github.io/tic-tac-toe]("https://mrmatin-aka-me.github.io/tic-tac-toe/")
